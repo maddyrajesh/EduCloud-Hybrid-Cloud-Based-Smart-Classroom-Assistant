@@ -8,5 +8,5 @@ functions:
     handler: ./face-recognition
     image: mrajesh3/face-recognition:latest
     environment:
-      AWS_ACCESS_KEY_ID: AKIAU2NCWR6TB76XUQ44
-      AWS_SECRET_ACCESS_KEY: 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
+      AWS_ACCESS_KEY_ID: AWS_ACCESS_KEY_ID
+      AWS_SECRET_ACCESS_KEY: AWS_SECRET_ACCESS_KEY
