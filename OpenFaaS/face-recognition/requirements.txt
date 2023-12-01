@@ -1,0 +1,6 @@
+boto3
+dlib
+numpy
+face_recognition
+opencv-python-headless  # If you don't need GUI components of OpenCV
+ffmpeg  # 
