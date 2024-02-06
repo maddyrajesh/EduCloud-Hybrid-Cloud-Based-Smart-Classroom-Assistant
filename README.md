@@ -26,4 +26,4 @@
 - Check face recognition accuracy and input/output data handling.
 
 ## Additional Information
-- For detailed architecture, tasks, and evaluation, refer to the [CSE 546 Project Report 3](file-s2ele6G9SmuiOHcx28AQPS0m).
+- For detailed architecture, tasks, and evaluation, refer to the [CSE 546 Project Report 3](CSE_546___Project_Report_3.pdf).
